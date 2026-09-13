@@ -2,7 +2,7 @@
 
 Black Fox Group is a software team. Official website: [foxnext.net](https://foxnext.net)
 
-بلک فاکس گروپ یک تیم نرم‌افزاری است. سایت رسمی: [foxnext.net](https://foxnext.net)
+گروه Black Fox یک تیم نرم‌افزاری است. سایت رسمی: [foxnext.net](https://foxnext.net/fa)
 
 ## Contact / تماس
 

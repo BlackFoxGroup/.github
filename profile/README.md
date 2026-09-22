@@ -36,7 +36,7 @@ These extra tools help you use VPS to VPN more easily. You do not need special L
 - [VPS to VPN](https://foxnext.net/fa/download.html) — ویندوز و اندروید. به VPS وصل می‌شوید و پنل 3X-UI Sanaei را بدون دانش لینوکس نصب می‌کنید.
 - [BSC Wallet Recovery](https://foxnext.net/fa/wallet-recovery.html) — ویندوز. بازیابی کلمات فراموش‌شدهٔ عبارت کیف‌پول روی BSC (BNB Smart Chain).
 
-برنامه‌های کمکی برای استفاده مراح‌تر از VPS to VPN:
+برنامه‌های کمکی برای استفاده راحت‌تر از VPS to VPN:
 
 - [Config Builder](https://github.com/BlackFoxGroup/blackfox-config-builder) — ساخت کانفیگ پنل روی اندروید
 - [Telegram Bot Expert Installer](https://github.com/BlackFoxGroup/telegram-bot-expert-installer) — نصب بات تلگرام روی سرور از ویندوز

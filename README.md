@@ -7,9 +7,10 @@ Black Fox Group is a software team. Official website: [foxnext.net](https://foxn
 ## Contact / تماس
 
 - Email / ایمیل: [support@foxnext.net](mailto:support@foxnext.net)
-- Telegram / تلگرام: [https://t.me/Black_Fox_Group](https://t.me/Black_Fox_Group)
-- Support / پشتیبانی: [https://t.me/HiBlackFox](HiBlackFox)
-- Contact page / صفحهٔ تماس: [foxnext.net/contact.html](https://foxnext.net/contact.html) · [foxnext.net/fa/contact.html](https://foxnext.net/fa/contact.html)
+- Telegram / تلگرام: [Black_Fox_Group](https://t.me/Black_Fox_Group)
+- Support / پشتیبانی: [HiBlackFox](https://t.me/HiBlackFox)
+- Contact page / صفحهٔ تماس: [foxnext.net/contact.html](https://foxnext.net/contact.html) 
+- صفحه تماس فارسی: [foxnext.net/fa/contact.html](https://foxnext.net/fa/contact.html)
 
 ## Product questions / سوال دربارهٔ محصولات
 
@@ -17,4 +18,4 @@ Ask product questions through the smart support bot:
 
 سوالات مربوط به محصولات را از ربات پشتیبانی هوشمند بپرسید:
 
-[https://t.me/BlackFox_Agent_Bot](https://t.me/BlackFox_Agent_Bot)
+[BlackFox_Agent_Bot](https://t.me/BlackFox_Agent_Bot)
